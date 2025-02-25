@@ -236,9 +236,9 @@ const task_6 = function()
   }
   const task6Output= prodStr;
     console.log(task6Output);
-    //Strategy 2
-    //Strategy 3
-    //Didnt finish 2 and 3
+    console.log(`"Strategy 2
+    Strategy 3
+    Didnt finish 2 and 3"`);
 }
 const task_7 = () =>
 {
